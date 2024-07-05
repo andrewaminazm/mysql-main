@@ -4,4 +4,4 @@ describe('MySQL Database Test', () => {
       expect(results[0].solution).to.equal(2);
     });
   });
-});
+})
